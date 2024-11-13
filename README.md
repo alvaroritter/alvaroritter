@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Álvaro, an entrepreneur and human-centered tech enthusiast looking to channel technology towards our biggest problems. Lately I have been diving deep into on Machine Learning and Computer Vision, but lots of other fields excite me. I'm more driven by the potential change, rather than the underlying technology.
+I'm Álvaro, an entrepreneur and human-centered tech enthusiast looking to channel technology towards our biggest problems. Lately I have been diving deep into on Machine Learning and Computer Vision, but lots of other fields excite me - I'm more driven by the potential change, rather than the underlying technology.
 
 - 🔭 I’m currently looking for opportunities as an AI engineer or technical product designer at early stage startups
 - 🌱 I’m studying Robotics, Cognition, Intelligence @ TUM
