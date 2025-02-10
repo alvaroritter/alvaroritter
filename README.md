@@ -5,7 +5,7 @@ I'm Álvaro, an entrepreneur and human-centered tech enthusiast looking to chann
 - 🌱 I’m studying Robotics, Cognition, Intelligence @ TUM
 - 👩‍💻 I'm proficient in Python, Java, C, Matlab and have used ML frameworks, like PyTorch and Tensorflow in the past
 - 🚀 I've previously founded a sports development and automation startup, aiming to bring Pádel to the German speaking market. As the CTO, I lead a 4-person dev team, where we built our software platform with Python and React
-- 💬 Ask me about ML, UX design, startups, how to cook a kick-ass Carbonara
+- 💬 Ask me about AI, UX design, startups, how to cook a kick-ass Carbonara
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/alvaro-ritter) or via alvaro.ritter@cdtm.de
 - ⚡ Fun fact: I'm on a side quest to make the 2032 German Olympics team in Pádel
 <!--
