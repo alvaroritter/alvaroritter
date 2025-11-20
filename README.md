@@ -1,13 +1,5 @@
 ## Hi there 👋
-I'm Álvaro, an entrepreneur and human-centered tech enthusiast looking to channel technology towards our biggest problems. Lately I have been diving deep into on Machine Learning and Computer Vision, but lots of other fields excite me - I'm more driven by the potential change, rather than the underlying technology.
-
-- 🔭 I’m currently looking for opportunities as an AI engineer or product engineer at early stage startups
-- 🌱 I’m studying Robotics, Cognition, Intelligence @ TUM
-- 👩‍💻 I'm proficient in Python, Java, C, Matlab and have used ML frameworks, like PyTorch and Tensorflow in the past
-- 🚀 I've previously founded a sports development and automation startup, aiming to bring Pádel to the German speaking market. As the CTO, I lead a 4-person dev team, where we built our software platform with Python and React
-- 💬 Ask me about AI, UX design, startups, how to cook a kick-ass Carbonara
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/alvaro-ritter) or via alvaro.ritter@cdtm.de
-- ⚡ Fun fact: I'm on a side quest to make the 2032 German Olympics team in Pádel
+I'm Álvaro, an entrepreneur and human-centered tech enthusiast looking to channel technology towards our biggest problems.
 <!--
 **alvaroritter/alvaroritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
